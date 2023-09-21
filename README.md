@@ -36,15 +36,16 @@ We aim to refine the quality of the produced Raga music by utilizing a dedicated
 To run the code, use the following command:
 ```shell
 streamlit run app.py
+```
 
-Acknowledgments
+## Acknowledgments
 
 We extend our gratitude to everyone who supported us in this endeavor, especially to the contributors and maintainers of the utilized libraries and platforms. Our journey in bridging the gap between the diverse world of Ragas and everyday users continues, and we are excited about the possibilities ahead.
 
-License
+## License
 
 This project is not open-source, and need to attain a license to use this code.
 
-Contact
+## Contact
 
 For any queries or discussions related to RagaCraft, please feel free to contact us.
