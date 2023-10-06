@@ -6,6 +6,7 @@ RagaCraft is an innovative application designed to democratize the rich and emot
 Our application is empowered by the Audiocraft library and is meticulously developed using Streamlit, ensuring a seamless and user-friendly experience. It is deployed on AWS EC2, optimizing performance and scalability. The core idea is to enhance the accessibility of the therapeutic and aesthetic essence of Indian classical music, making it a universal experience.
 
 [Live App](http://18.188.244.79:8501)
+<img width="1136" alt="Screen Shot 2023-10-06 at 6 08 17 PM" src="https://github.com/datasci888/Ragacraft/assets/119770980/a5c7024d-b914-4f5e-a800-dcbf81544d97">
 
 ## Features
 - **User-Friendly Interaction**: Users can input their mood, and the app curates personalized Raga-based music.
@@ -16,6 +17,8 @@ Our application is empowered by the Audiocraft library and is meticulously devel
 - [Pitch Deck](https://pitch.com/public/7323c1c4-2eb1-48cf-9af6-e9c3da5e0a1c)
 - [Presentation](https://youtu.be/9G7hagBrbgE)
 - [App Demo](https://youtu.be/KFGr0pkR1wE)
+  
+<img width="1179" alt="Screen Shot 2023-10-06 at 6 07 13 PM" src="https://github.com/datasci888/Ragacraft/assets/119770980/07bcf985-2160-4ae8-b4f9-dda64e9d9737">
 
 ## Technology Stack
 - **Streamlit**: For building the web application.
